@@ -5,7 +5,7 @@
 - [ ] Mapear as distâncias entre os planetas
 - [X] Modelar o grafo
 - [ ] Implementar o caixeiro viajante padrão (para comparar) (Corona)
-- [ ] Implementar algum algoritmo de busca para resolver o problema
+- [ ] Implementar algum algoritmo de busca para resolver o problema (Vitor)
 - [ ] Fazer a apresetação de slides
 - [ ] Fazer o documento acadêmico
 
