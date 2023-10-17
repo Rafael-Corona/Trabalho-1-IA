@@ -1,0 +1,33 @@
+7
+21
+M
+V
+T
+J
+S
+U
+N
+M V -1
+M T -1
+M J -1
+M S -1
+M U -1
+M N -1
+V T -1
+V J -1
+V S -1
+V U -1
+V N -1
+T J -1
+T S -1
+T U -1
+T N -1
+J S -1
+J U -1
+J N -1
+S U -1
+S N -1
+U N -1
+##########################
+Este arquivo deve conter as distancias que um pedestre 
+deve percorrer para atingir um planeta a partir de qualquer outro, segundo estimativas
