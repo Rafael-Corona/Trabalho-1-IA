@@ -6,4 +6,5 @@
 - [ ] Implementar o caixeiro viajante padrão (para comparar)
 - [ ] Implementar algum algoritmo de busca para resolver o problema
 - [ ] Fazer a apresetação de slides
+- [ ] Fazer o documento acadêmico
 
