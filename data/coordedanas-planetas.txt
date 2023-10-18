@@ -1,0 +1,11 @@
+Mercúrio:
+Vênus:
+Terra:
+Marte:
+Júpiter:
+Saturno:
+Urano:
+Netuno:
+###################
+Exemplo:
+Sala 5101 do ICMC:-22.007153, -47.895396
